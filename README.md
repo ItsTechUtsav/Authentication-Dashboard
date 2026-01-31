@@ -1,6 +1,4 @@
-# Primetrade Frontend Developer Intern Assignment
-
-This project is a full-stack web application built as part of the Frontend Developer Intern assignment.
+This project is a full-stack web application built as part of the Frontend Developer Intern assignmen.
 
 The main focus of the project is frontend development along with a basic backend to support authentication and dashboard features.
 
